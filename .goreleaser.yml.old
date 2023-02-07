@@ -4,11 +4,11 @@
 ---
 release:
   github:
-    owner: golang
+    owner: bambulin
     name: mock
 
 builds:
-  - binary: mockgen
+  - binary: bmockgen
     goos:
       - darwin
       - windows
