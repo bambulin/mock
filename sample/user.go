@@ -18,15 +18,15 @@ import (
 
 	t2 "text/template"
 
-	"github.com/golang/mock/sample/imp1"
+	"github.com/bambulin/mock/sample/imp1"
 
 	// Dependencies outside the standard library.
 
-	renamed2 "github.com/golang/mock/sample/imp2"
+	renamed2 "github.com/bambulin/mock/sample/imp2"
 
-	. "github.com/golang/mock/sample/imp3"
+	. "github.com/bambulin/mock/sample/imp3"
 
-	imp_four "github.com/golang/mock/sample/imp4"
+	imp_four "github.com/bambulin/mock/sample/imp4"
 )
 
 // calls itself "imp_four"
